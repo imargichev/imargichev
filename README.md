@@ -1,10 +1,8 @@
 💻 Java Developer
-Creating efficient, robust, and scalable applications.
+I love building backend systems that are reliable, scalable, and just work.
 
-⚡ Skills: Proficient in Java, Spring, and Hibernate. I take pride in writing clean, maintainable code.
+⚡ Tech Stack: Java, Spring, Hibernate, and anything else that gets the job done.
+🎯 Mindset: Always curious, always learning, and ready to tackle tough challenges head-on.
+🚀 Mission: Delivering solutions that make life easier, one line of code at a time.
 
-🎯 Mindset: Continuously exploring new technologies to stay ahead of the curve.
-
-🚀 Passion: Collaborating and solving complex problems with innovative solutions.
-
-Let’s build something great together! 🚀
+Let’s code something awesome together! 🚀
