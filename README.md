@@ -1,4 +1,8 @@
-💻 Java Developer | Creating efficient, robust, and scalable applications.
-⚡ Proficient in Java, Spring, and Hibernate with a flair for writing clean, maintainable code.
-🎯 Always exploring new tech to stay ahead in the game.
-🚀 Passionate about collaboration and solving complex problems with innovative solutions. Let's build something great together!
+💻 Java Developer
+Creating efficient, robust, and scalable applications.
+
+⚡ Skills: Proficient in Java, Spring, and Hibernate. I take pride in writing clean, maintainable code.
+🎯 Mindset: Continuously exploring new technologies to stay ahead of the curve.
+🚀 Passion: Collaborating and solving complex problems with innovative solutions.
+
+Let’s build something great together! 🚀
